@@ -13,6 +13,7 @@ public class Address {
         city = "unknown city";
         state = "unknown state";
         zipCode = "unknown zipcode";
+        //commit
     }
     //Second constructor, overloaded constructor-> provide short cut to initialize variable
     // in the same statement : ex: Address ad = new Address("123 java st", "Boston", "MA", "12345");
