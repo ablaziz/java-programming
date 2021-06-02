@@ -11,7 +11,7 @@ public class BankAccountTest {
         MyBankAccount herAccount = new MyBankAccount();
         herAccount.user ="herAccount";
         herAccount.showBalance();
-        herAccount.spend(300);
+        herAccount.spend(301);
         herAccount.showBalance();
         husband.showBalance();
         System.out.println(MyBankAccount.balance);
