@@ -14,5 +14,11 @@ public class LinkedListDemo {
         System.out.println(scores);
         System.out.println(scores.get(0));
         System.out.println(scores.get(1));
+
+        list.add("Aziz");
+        list.add("Nour");
+        list.add("sarah");
+        list.addFirst("john");
+        System.out.println(list);
     }
 }
